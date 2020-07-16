@@ -1,32 +1,16 @@
 # Case Study: Absenteeism-at-Work
 
 
-The exercise will adress Absentism at the company during work time.
+The purpose of the business exercise will be to explore whether a person presenting certain characteristics is expected to be away from work at some point in time or not. In other words we want to know for how many working hours an employee could be away from work based on information such as how far they live from their workplace, how many children and pets they have, Do they have higher education and so on.
 
+> Data: As a data source for our analysis, we will use Secondary data which is based on the dataset of an already existing study about the prediction of absenteeism at work. This means that the business exercise we will go through will be realistic and obtained skills have 100 percent application in the business world.
 
-Data: As a data source for our analysis, we will use Secondary data, which is real example, and data collection was done bla bla
-
-Reasearch Question: We would like to know whether or not an employee can be expected to be missing for a specific number of hours in a given work day.
+> Reasearch Question: We would like to know whether or not an employee can be expected to be missing for a specific number of hours in a given work day.
 
 Having such information in advance can improve our decision making how by reorganizing the work process in a way that will allow us to avoid a lack of productivity and increase the quality of work generated in our firm.
 
 Definition of absenteeism: The absence from work during normal working hours resulting in temporary incapacity to execute regular working activity.
 
-
-
-> Logically here comes some additional questions based on what information should we predict whether an employee is expected to be absent or not. How would we measure absenteeism.
-
-
-
-> Should we rather think about trying to predict excessive absenteeism. We will answer these and other questions as we proceed with our analysis for the moment.
-
-
-
-The purpose of the business exercise will be to explore whether a person presenting certain characteristics is expected to be away from work at some point in time or not. In other words we want to know for how many working hours an employee could be away from work based on information such as how far they live from their workplace, how many children and pets they have, Do they have higher education and so on.
-
-
-
- 
 
 ### Data Preprocessing:
 
