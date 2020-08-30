@@ -21,11 +21,24 @@ First, we will preprocess the data. We will start working on the ‘Absenteeism_
 Based on Preprocessed data we will develop a model that will predict the probability of an individual being excessively absent from work. For our case study, this will be a logistic regression model. Numerous machine learning tools and techniques will help us at this stage. At the end, we will store our work as a Python module that we will call ‘absenteeism_module’ and will thus preserve it in a form suitable for further analysis.
 
  
-### Loading the ‘absenteeism_module’:
+This exercise is designed first of all to practice Data Preprocessing and Logistic Regression. 
 
-In this section we will load the ‘absenteeism_module’ and use its methods to obtain predictions.
+Below you can find an information about the dataset.
 
- 
-### Analyzing the predicted outputs in Tableau:
+* ID: Individual Identification
+* Reason for Absence: We have overall 28 Reasons for Absence in our list which are presented in a column categorized as numbers. Certain reasons formulate a grouls which you can see below.
 
-Finally, we will use Tableau to analyse three separate dependencies between the inputs of our model. The visualizations we will obtain with this software will help us a great deal while looking for insights.
+Group 1 (1 to 14) Certain Infectious and Parasitic diseases 
+Group 2 (15, 16, 17) Diseases of the nervous system
+Group 3 (18, 19, 20, 21) Pregnancy and Childbirth
+Group 4 (22 to 28) Patient follow-up
+* Date: Date of Absence
+* Transportation Expense: Costs related to business travel such as fuel, parking	
+* Distance to Work: Measured in kilometers
+* Age: Years of age
+* Daily Work Load Average: Measured in minutes
+* Body Mass Index
+* Education: A categorical variable, representing different levels of education
+* Children: Number of children in the family
+* Pets: Number of pets in the family	
+* Absenteeism Time in Hours
